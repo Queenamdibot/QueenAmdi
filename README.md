@@ -1,4 +1,4 @@
-# **QUEEN AMDI💃🏻❤️** - _A Javascript WhatsApp User Bot_
+# **QUEEN AMDI💃🏻❤️😘** - _A Javascript WhatsApp User Bot_
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](assets/cover.jpg)
